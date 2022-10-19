@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Madhan-Kumar-N
-- 👀 I’m interested in ...Coding,Gaming,Designing
-- 🌱 I’m currently learning ...React.js
-- 📫 How to reach me ...ping me @Maddy00101
+-  I’m interested in Gaming,Designing and coding 
+
 
 
 <!---
