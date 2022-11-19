@@ -1,5 +1,5 @@
 # Hi 👋,I'm Madhan Kumar N
-👨‍🎓I'm a Computer Science Engineering Student from India<br>🧑‍💻I code in C,java and javascript<br>⚛️All of my project are available in github.com/Madhan-Kumar-N<br>🌱 I’m currently learning React,Flutter
+👨‍🎓I'm a Computer Science Engineering from India<br>🧑‍💻I code in C,java and javascript<br>⚛️All of my project are available in github.com/Madhan-Kumar-N<br>🌱 I’m currently learning React,Flutter
 
 
 ## 🌐 Socials:
