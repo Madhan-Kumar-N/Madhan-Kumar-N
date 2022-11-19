@@ -1,4 +1,4 @@
-# Hi 👋 ,I'm Madhan Kumar N:
+# Hi 👋 ,I'm Madhan Kumar N
 👨‍🎓I'm a Computer Science Engineering Student<br>🧑‍💻I code in C,java and javascript<br>🌱 I’m currently learning React,Flutter
 
 
